@@ -1,6 +1,6 @@
 #Getting and Cleaning Data – Course Project
 
-run_analysis.R that does the following:
+run_analysis.R does the following (Please see CodeBook.md for more information):
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
